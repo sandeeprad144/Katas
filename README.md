@@ -1,1 +1,5 @@
-# Katas
+# Yahtzee Kata
+  
+# Vending Machine Kata
+
+  
